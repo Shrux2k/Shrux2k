@@ -1,3 +1,19 @@
+# 💫 Hi 👋, Shashank Reddy
+**A Passionate Backend Engineer || Master's in Computer science 🚀 
+
+Email Me 👉 ✉️ **Shashankreddy.corp@gmail.com* For Collaboration/Project or Anything Else. 
+
+- 🔭 **I’m currently working on:** Trackify
+- 🌱 **I’m currently learning:** AI & Machine Learning
+- 👯 **I’m looking to collaborate on:** Anything
+- 🤔 **I’m looking for help with:** Referral
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Shashankreddy.corp@gmail.com
+- 😄 **Pronouns:** He/Him
+
+<div align="left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shashank_reddyyyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reddy-shashank) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shashankreddy.corp@gmail.com) 
