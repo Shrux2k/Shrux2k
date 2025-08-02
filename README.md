@@ -1,4 +1,4 @@
-# 💫 Hi 👋, Shashank Reddy
+# 💫 Hi 👋,I'm Shashank Reddy
 **A Passionate Backend Engineer || Master's in Computer science 🚀 
 
 Email Me 👉 ✉️ **Shashankreddy.corp@gmail.com* For Collaboration/Project or Anything Else. 
